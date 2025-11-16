@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anhbridgitnguyen.github.io/anhbridgitnguyen.github.io/sitemap.xml
+Sitemap: https://anhbridgitnguyen.github.io/sitemap.xml
